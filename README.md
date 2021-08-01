@@ -4,4 +4,4 @@
 ### Funny Alias File Idea
 
 - namp -> nmappe
-- git -> shit 
+- git -> shit (shit pull)
